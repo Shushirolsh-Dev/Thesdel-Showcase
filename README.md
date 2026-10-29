@@ -36,23 +36,24 @@ Given the complex data structures involved in parsing course codes, time slots, 
 *   **Student Communication:** Keeping important class information, announcements, and updates where students can actually find them.
 
 ## Interface Showcase
+<div align="center">
+  <p><i>Swipe or scroll horizontally to view the app interfaces</i></p>
+</div>
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <b>Timetable Architecture</b><br/><br/>
-      <img src="IMG_20261029_131735_720.png" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;" alt="Timetable" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>Attendance Tracking</b><br/><br/>
-      <img src="IMG_20261029_132013_400.png" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;" alt="Attendance" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>Class Spaces & RBAC</b><br/><br/>
-      <img src="IMG_20261029_131957_841.png" width="100%" style="border-radius: 8px; border: 1px solid #d0d7de;" alt="Class Spaces" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 20px; padding-bottom: 20px;">
+  <div style="min-width: 300px; flex: 1;">
+    <p align="center"><b>Timetable Architecture</b></p>
+    <img src="IMG_20261029_131735_720.png" width="100%" style="border-radius: 12px; border: 1px solid #d0d7de;" alt="Timetable" />
+  </div>
+  <div style="min-width: 300px; flex: 1;">
+    <p align="center"><b>Attendance Tracking</b></p>
+    <img src="IMG_20261029_132013_400.png" width="100%" style="border-radius: 12px; border: 1px solid #d0d7de;" alt="Attendance" />
+  </div>
+  <div style="min-width: 300px; flex: 1;">
+    <p align="center"><b>Class Spaces & RBAC</b></p>
+    <img src="IMG_20261029_131957_841.png" width="100%" style="border-radius: 12px; border: 1px solid #d0d7de;" alt="Class Spaces" />
+  </div>
+</div>
 
 <br/>
 
