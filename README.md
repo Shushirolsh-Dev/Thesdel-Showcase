@@ -1,9 +1,7 @@
 <div align="center">
   <h1>THESDEL</h1>
   <h3>The Student Digital Exchange Layer</h3>
-  <p><em>Learn. Grow. Become.</em></p>
   
-  <!-- Animated Tech Divider -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+the+digital+layer+for+student+life.;Starting+in+Nigeria.+Building+for+Africa.;Built+at+OAU." alt="Typing SVG" />
 </div>
 
@@ -39,7 +37,6 @@ Given the complex data structures involved in parsing course codes, time slots, 
 
 ## Interface Showcase
 
-<!-- Horizontal Image Grid -->
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
@@ -67,6 +64,6 @@ If you're interested in what we're building, follow this organization and watch 
 <br/>
 
 <div align="center">
-  <b>THESDEL</b><br/>
-  <i>Learn. Grow. Become.</i>
+  <h2>THESDEL</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=400&lines=Learn.;Grow.;Become." alt="Typing SVG" />
 </div>
